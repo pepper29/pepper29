@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=세용의%20개발시간&fontSize=55)
 
-
+<image src='image/루피울기.jpg'>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=pepper29)](https://github.com/pepper29)
 
