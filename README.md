@@ -7,17 +7,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pepper29)](https://github.com/pepper29/github-readme-stats)
 
 > 🔭 I’m currently working on ...
-> * 멀티캠퍼스 파이썬기반 데이터분석과정 이수(20. 12. 27 ~ 21. 02. 19) (300hour)
-> * 한국리서치 인턴 근무 (21. 04 ~ 21. 07) (3 month)
-    - 데이터 전처리 담당(담당카테고리: 음료 data, 생리대 brand data..)
-    - 엑셀을 사용하여 빅데이터를 가공 및 통계분석
-> * SSG.COM SCM(Supply Chain Management)직무로 근무 (21. 09. 18 ~ 22. 09. 07) (1 year)
-    - 재고관리 / 생산관리 / 설비관리의 직무 수행
-    - 현업 시스템에 대한 개선 실시(엑셀을 활용하여 작업시간 자동계산 프로그램, 설비 라우팅 순서변경을 통한 효율개선)
-> * 인덕대학교 산업경영공학과 졸업(4년제) (2016 . 03 ~ 2022. 02)
-    - 통계학(Excel활용) / 비지니스 인텔리전스(C#, JAVA Script, C++) 이수
-> * 멀티캠퍼스 서비스 산업데이터를 활용한 데이터분석과정 교육중 (22. 09. 19 ~ 23. 02. 17) (6 month)
-    - python, git & github 등을 사용하여 분석 및 머신러닝에 대한 학습
+> * 멀티캠퍼스 파이썬기반 데이터분석과정 이수(20. 12. 27 ~ 21. 02. 19) (300hour) <br>
+> * 한국리서치 인턴 근무 (21. 04 ~ 21. 07) (3 month) <br>
+    - 데이터 전처리 담당(담당카테고리: 음료 data, 생리대 brand data..) <br>
+    - 엑셀을 사용하여 빅데이터를 가공 및 통계분석 <br>
+> * SSG.COM SCM(Supply Chain Management)직무로 근무 (21. 09. 18 ~ 22. 09. 07) (1 year) <br>
+    - 재고관리 / 생산관리 / 설비관리의 직무 수행 <br>
+    - 현업 시스템에 대한 개선 실시(엑셀을 활용하여 작업시간 자동계산 프로그램, 설비 라우팅 순서변경을 통한 효율개선) <br>
+> * 인덕대학교 산업경영공학과 졸업(4년제) (2016 . 03 ~ 2022. 02) <br>
+    - 통계학(Excel활용) / 비지니스 인텔리전스(C#, JAVA Script, C++) 이수 <br>
+> * 멀티캠퍼스 서비스 산업데이터를 활용한 데이터분석과정 교육중 (22. 09. 19 ~ 23. 02. 17) (6 month) <br>
+    - python, git & github 등을 사용하여 분석 및 머신러닝에 대한 학습 <br>
 
 ---
 > 🌱 I’m currently learning language ...
